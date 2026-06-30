@@ -1,2 +1,0 @@
-# zapret-tg
-zapret tg
